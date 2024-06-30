@@ -1,2 +1,2 @@
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
-.venv\scripts\activatels
+.venv\scripts\activate
